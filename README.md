@@ -117,7 +117,7 @@
     <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
 
   <h2>🤝 Contact</h2>
-    <p>For any questions, feel free to reach out at <a href="shivangithakur7300@gmail.com">shivangithakur7300@gmail.com</a>.</p>
+    <p>For any questions, feel free to reach out at <a href="shrishkamboz@gmail.com">shrishkamboz@gmail.com</a>.</p>
 </body>
 
 </html>
