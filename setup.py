@@ -6,9 +6,9 @@ with open("README.md", "r",encoding = "utf-8") as f:
     long_description = f.read()
 
 REPO_NAME = 'Clean_Littered_Roads_Classifier'
-AUTHOR_NAME = 'Simran Thakur'
+AUTHOR_NAME = 'Shrish Kamboj'
 SRC_REPO = 'RoadClassifier'
-AUTHOR_Email = 'shivangithakur7300@gmail.com'
+AUTHOR_Email = 'shrishkamboz.com'
 
 setuptools.setup(
     name=REPO_NAME,
